@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "goddex",
   "VITE_ORDERLY_BROKER_NAME": "Goddex",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/roolznft",
   "VITE_SEO_SITE_NAME": "Goddex",
   "VITE_SEO_SITE_DESCRIPTION": "A godlike dex powered by RoOLZ & GODL",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/goddex-3537/",
+  "VITE_SEO_SITE_URL": "https://goddex.ai",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@roolznft",
